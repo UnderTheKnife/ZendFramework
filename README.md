@@ -1,4 +1,4 @@
-# ZendSkeletonApplication [![Build Status](https://travis-ci.org/UnderTheKnife/test.svg?branch=master)](https://travis-ci.org/UnderTheKnife/test)
+# ZendSkeletonApplication [![Build Status](https://travis-ci.org/UnderTheKnife/ZendFramework.svg?branch=master)](https://travis-ci.org/UnderTheKnife/ZendFramework)
 ## Introduction
 
 This is a skeleton application using the Zend Framework MVC layer and module
