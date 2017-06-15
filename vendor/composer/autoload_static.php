@@ -6,6 +6,10 @@ namespace Composer\Autoload;
 
 class ComposerStaticInit0c1c9b4d071bf4543aba43609a4bea17
 {
+    public static $files = array (
+        '34901568a1e26d13dd475cb2c85e0284' => __DIR__ . '/..' . '/zendframework/zend-form/autoload/formElementManagerPolyfill.php',
+    );
+
     public static $prefixLengthsPsr4 = array (
         'p' => 
         array (
@@ -24,14 +28,19 @@ class ComposerStaticInit0c1c9b4d071bf4543aba43609a4bea17
             'Zend\\ModuleManager\\' => 19,
             'Zend\\Loader\\' => 12,
             'Zend\\InputFilter\\' => 17,
+            'Zend\\I18n\\' => 10,
+            'Zend\\Hydrator\\' => 14,
             'Zend\\Http\\' => 10,
+            'Zend\\Form\\' => 10,
             'Zend\\Filter\\' => 12,
             'Zend\\EventManager\\' => 18,
             'Zend\\Escaper\\' => 13,
             'Zend\\Dom\\' => 9,
+            'Zend\\Db\\' => 8,
             'Zend\\Console\\' => 13,
             'Zend\\Config\\' => 12,
             'Zend\\ComponentInstaller\\' => 24,
+            'Zend\\Code\\' => 10,
             'ZF\\DevelopmentMode\\' => 19,
         ),
         'W' => 
@@ -55,6 +64,7 @@ class ComposerStaticInit0c1c9b4d071bf4543aba43609a4bea17
         array (
             'Application\\' => 12,
             'ApplicationTest\\' => 16,
+            'Album\\' => 6,
             'AlbumTest\\' => 10,
         ),
     );
@@ -110,9 +120,21 @@ class ComposerStaticInit0c1c9b4d071bf4543aba43609a4bea17
         array (
             0 => __DIR__ . '/..' . '/zendframework/zend-inputfilter/src',
         ),
+        'Zend\\I18n\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/zendframework/zend-i18n/src',
+        ),
+        'Zend\\Hydrator\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/zendframework/zend-hydrator/src',
+        ),
         'Zend\\Http\\' => 
         array (
             0 => __DIR__ . '/..' . '/zendframework/zend-http/src',
+        ),
+        'Zend\\Form\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/zendframework/zend-form/src',
         ),
         'Zend\\Filter\\' => 
         array (
@@ -130,6 +152,10 @@ class ComposerStaticInit0c1c9b4d071bf4543aba43609a4bea17
         array (
             0 => __DIR__ . '/..' . '/zendframework/zend-dom/src',
         ),
+        'Zend\\Db\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/zendframework/zend-db/src',
+        ),
         'Zend\\Console\\' => 
         array (
             0 => __DIR__ . '/..' . '/zendframework/zend-console/src',
@@ -141,6 +167,10 @@ class ComposerStaticInit0c1c9b4d071bf4543aba43609a4bea17
         'Zend\\ComponentInstaller\\' => 
         array (
             0 => __DIR__ . '/..' . '/zendframework/zend-component-installer/src',
+        ),
+        'Zend\\Code\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/zendframework/zend-code/src',
         ),
         'ZF\\DevelopmentMode\\' => 
         array (
@@ -173,6 +203,10 @@ class ComposerStaticInit0c1c9b4d071bf4543aba43609a4bea17
         'ApplicationTest\\' => 
         array (
             0 => __DIR__ . '/../..' . '/module/Application/test',
+        ),
+        'Album\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/module/Album/src',
         ),
         'AlbumTest\\' => 
         array (
