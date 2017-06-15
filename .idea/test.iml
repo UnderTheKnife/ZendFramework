@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/container-interop/container-interop" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/doctrine/instantiator" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/myclabs/deep-copy" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phar-io/manifest" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phar-io/version" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpdocumentor/reflection-common" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpdocumentor/type-resolver" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpspec/prophecy" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpunit/php-code-coverage" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpunit/php-file-iterator" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpunit/php-text-template" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpunit/php-timer" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpunit/php-token-stream" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpunit/phpunit" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/psr/container" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/sebastian/code-unit-reverse-lookup" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/sebastian/comparator" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/sebastian/diff" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/sebastian/environment" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/sebastian/exporter" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/sebastian/global-state" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/sebastian/object-enumerator" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/sebastian/object-reflector" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/sebastian/recursion-context" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/sebastian/resource-operations" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/theseer/tokenizer" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/webmozart/assert" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-component-installer" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-config" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-console" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-dom" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-escaper" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-eventmanager" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-http" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-loader" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-modulemanager" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-mvc" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-router" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-servicemanager" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-stdlib" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-test" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-uri" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-validator" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-view" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zfcampus/zf-development-mode" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/container-interop/container-interop" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/doctrine/instantiator" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/myclabs/deep-copy" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phar-io/manifest" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phar-io/version" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpdocumentor/reflection-common" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpdocumentor/type-resolver" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpspec/prophecy" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpunit/php-code-coverage" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpunit/php-file-iterator" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpunit/php-text-template" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpunit/php-timer" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpunit/php-token-stream" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpunit/phpunit" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/psr/container" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/sebastian/code-unit-reverse-lookup" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/sebastian/comparator" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/sebastian/diff" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/sebastian/environment" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/sebastian/exporter" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/sebastian/global-state" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/sebastian/object-enumerator" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/sebastian/object-reflector" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/sebastian/recursion-context" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/sebastian/resource-operations" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/theseer/tokenizer" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/webmozart/assert" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-component-installer" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-config" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-console" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-dom" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-escaper" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-eventmanager" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-http" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-loader" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-modulemanager" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-mvc" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-router" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-servicemanager" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-stdlib" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-test" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-uri" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-validator" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zendframework/zend-view" />
+          <root url="file://$MODULE_DIR$/../hello-world/skeleton-application/vendor/zfcampus/zf-development-mode" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.1.phar/" />
+          <root url="phar://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.1.phar/" />
+          <root url="phar://$MODULE_DIR$/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.1.phar/" />
+          <root url="phar://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/../hello-world/skeleton-application/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.1.phar/" />
+          <root url="phar://$MODULE_DIR$/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
