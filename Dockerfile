@@ -1,5 +1,4 @@
 FROM php:7.0-apache
-
 RUN apt-get update \
  && apt-get install -y git zlib1g-dev \
  && docker-php-ext-install zip \
@@ -14,7 +13,8 @@ RUN pecl install xdebug \
     && echo "xdebug.remote_autostart=off" >> /usr/local/etc/php/conf.d/docker-php-ext-xdebug.ini \
     && echo "xdebug.remote_host=172.17.0.1" >> /usr/local/etc/php/conf.d/docker-php-ext-xdebug.ini \
     && echo "xdebug.remote_idekey='PHPSTORM'" >> /usr/local/etc/php/conf.d/docker-php-ext-xdebug.ini
-
-RUN cat /usr/local/etc/php/conf.d/docker-php-ext-xdebug.ini
-
+RUN apt-get update && apt-get install -y zlib1g-dev libicu-dev g++
+RUN docker-php-ext-configure intl
+RUN docker-php-ext-install intl
 WORKDIR /var/www
+
