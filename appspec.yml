@@ -3,3 +3,12 @@ os: linux
 files:
   - source: .
     destination: /var/www/
+hooks:
+  BeforeInstall:
+    - location: deploy/before_install
+      timeout: 300
+      runas: ubuntu
+  AfterInstall:
+    - location: deploy/restart_server
+      timeout: 300
+      runas: ubuntu 
