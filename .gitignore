@@ -1,7 +1,2 @@
 .idea/
-.vagrant/
-config/development.config.php
-data/cache/*
-!data/cache/.gitkeep
 data/*.db
-phpunit.xml
